@@ -8,6 +8,7 @@ function rentalCarCost(d) {
     } else return d * 40
 }
 
+//
 // OR
 //
 // function rentalCarCost(d) {
@@ -16,5 +17,4 @@ function rentalCarCost(d) {
 //     } else if (d >= 7) {
 //         return ((d * 40) - 50)
 //     } else return d * 40
-//
-}
+// }
